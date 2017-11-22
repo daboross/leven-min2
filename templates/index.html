@@ -6,7 +6,7 @@
 <body>
 { include header }{ for post in posts }<article>
 <header>
-<h1 class="post-title"><a href="/{ post.slug }.html">{ post.title }</a></h1>
+<h1 class="post-title"><a href="{ post.slug }.html">{ post.title }</a></h1>
 <time class="post-date">{ post.date }</time>
 </header>
 { post.content }

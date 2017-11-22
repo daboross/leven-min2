@@ -33,6 +33,7 @@ url = "https://github.com/"
 ## Features
 
 - Extreme minimalism
+- All links are relative, so you can deploy as a sub-page of a larger site
 
 ## Dependencies
 

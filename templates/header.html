@@ -1,7 +1,7 @@
 <nav>
 <div>
-<a class="nav-link" href="/">{ config.name }</a> |
+<a class="nav-link" href="./">{ config.name }</a> |
 { if config.links }{ for x in config.links }<a class="nav-link" href="{ x.url }" target="_blank">{ x.name }</a> |{ end }{ end }
-<a class="nav-link" href="/archive.html">{ if config.archive_name }{ config.archive_name }{ else }archive{ end }</a>
+<a class="nav-link" href="archive.html">{ if config.archive_name }{ config.archive_name }{ else }archive{ end }</a>
 </div>
 </nav>
