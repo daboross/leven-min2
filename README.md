@@ -8,7 +8,7 @@ leven theme daboross/leven-min2
 
 Here's a [demo].
 
-The design is based off of [better m*f* website][bmfw] (warning: swearing).
+The design is based off of [`better m*f* website`][bmfw] (warning: swearing).
 
 This repository's organization is copied from the [Twelve] Leven theme. The
 Twelve theme looks great. It's slightly less minimal, although that's probably
@@ -39,6 +39,6 @@ url = "https://github.com/"
 - Slightly-modern browser
 
 [Level]: https://github.com/quadrupleslap/leven
-[demo]: https://daboross.net/leven-min2
+[demo]: http://daboross.net/leven-min2
 [Twelve]: https://github.com/quadrupleslap/twelve
 [bmfw]: http://bettermotherfuckingwebsite.com/
