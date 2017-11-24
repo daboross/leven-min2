@@ -8,7 +8,7 @@ leven theme daboross/leven-min2
 
 Here's a [demo].
 
-The design is based off of [`better m*f* website`][bmfw] (warning: swearing).
+The design is based off of [`b.m.f.w`] (warning: swearing).
 
 This repository's organization is copied from the [Twelve] Leven theme. The
 Twelve theme looks great. It's slightly less minimal, although that's probably
@@ -37,9 +37,9 @@ url = "https://github.com/"
 
 ## Dependencies
 
-- Slightly-modern browser
+- Internet Explorer 7 or better browser (IE6 and below will still render the site, it will just not have the content allignment)
 
 [Level]: https://github.com/quadrupleslap/leven
 [demo]: http://daboross.net/leven-min2
 [Twelve]: https://github.com/quadrupleslap/twelve
-[bmfw]: http://bettermotherfuckingwebsite.com/
+[`b.m.f.w.`]: http://bettermotherfuckingwebsite.com/
